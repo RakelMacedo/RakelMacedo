@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/RakelMacedo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RakelMacedo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakelMacedo&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RakelMacedo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakelMacedo&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -21,7 +21,7 @@
   <a href = "mailto:rakelmacedo.job@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rakel-macedo-456a76204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/RakelMacedo/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/RakelMacedo/RakelMacedo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
