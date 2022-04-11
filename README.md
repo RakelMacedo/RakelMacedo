@@ -10,7 +10,7 @@
   <img align="center" alt="Rakel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Rakel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Rakel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Rakel-Flask" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img align="center" alt="Rakel-Flask" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img align="center" alt="Rakel-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> 
   <img align="right" alt="Rakel-pic" height="150" style="border-radius:50px;"src="https://i.picasion.com/pic92/3dceb20984b7c3a233b963d82f29f856.gif">
 </div>
