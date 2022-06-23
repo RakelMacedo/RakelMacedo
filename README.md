@@ -30,7 +30,6 @@
     <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-32CD32?style=flat&logo=selenium&logoColor=white">
     <img align="center" alt="PostgreSQL"src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
     <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-DCDCDC?style=flat&ogo=flask&logoColor=black">
-    <img align="center" alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 </div>
 </details>
  
