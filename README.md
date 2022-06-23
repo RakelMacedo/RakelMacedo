@@ -9,11 +9,11 @@
 <div  align="center" style="display: inline_block"><br>
   <img align="center" alt="Rakel-Linux" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Rakel-Git" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Rakel-Postgres" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Rakel-Python" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Rakel-Django" height="33" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" alt="Rakel-Django" height="34" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" alt="Rakel-Python" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Rakel-Selenium" height="29" width="39" src="https://devicons.railway.app/i/selenium.svg" />
+ <img align="center" alt="Rakel-Postgres" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Rakel-Flask" height="39" width="49" src="https://devicons.railway.app/i/flask-light.svg" />
-  <img align="center" alt="Rakel-Selenium" height="30" width="39" src="https://devicons.railway.app/i/selenium.svg" /> 
   <img align="right" alt="Rakel-pic" height="150" style="border-radius:50px;"src="https://i.picasion.com/pic92/3dceb20984b7c3a233b963d82f29f856.gif">
 </div>
 
