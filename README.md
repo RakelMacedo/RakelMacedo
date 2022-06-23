@@ -22,15 +22,15 @@
   <br/>
  
 <div style="display: inline_block"><br>
-    <img align="center" alt="Linux"src="https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=linux&logoColor=white">
-    <img align="center" alt="Git"src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-    <img align="center" alt="SQLite"src="https://img.shields.io/badge/-SQLite-191970?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img align="center" alt="Django"src="https://img.shields.io/badge/-Django-2E8B57?style=for-the-badge&logo=django">
-    <img align="center" alt="Python"src="https://img.shields.io/badge/-Python-%230077B5?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-32CD32?style=for-the-badge&logo=selenium&logoColor=white">
-    <img align="center" alt="PostgreSQL"src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-DCDCDC?style=for-the-badge&logo=flask&logoColor=black">
-    <img align="center" alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img align="center" alt="Linux"src="https://img.shields.io/badge/Linux-100000?style=flat&logo=linux&logoColor=white">
+    <img align="center" alt="Git"src="https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white">
+    <img align="center" alt="SQLite"src="https://img.shields.io/badge/-SQLite-191970?style=flat&logo=sqlite&logoColor=white">
+    <img align="center" alt="Django"src="https://img.shields.io/badge/-Django-2E8B57?style=flat&logo=django">
+    <img align="center" alt="Python"src="https://img.shields.io/badge/-Python-%230077B5?style=flat&logo=python&logoColor=white">
+    <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-32CD32?style=flat&logo=selenium&logoColor=white">
+    <img align="center" alt="PostgreSQL"src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
+    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-DCDCDC?style=flat&ogo=flask&logoColor=black">
+    <img align="center" alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 </div>
 </details>
  
