@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/RakelMacedo">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=RakelMacedo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakelMacedo&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=RakelMacedo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakelMacedo&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
 <div  align="center" style="display: inline_block"><br>
