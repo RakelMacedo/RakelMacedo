@@ -201,7 +201,7 @@
     <text x="44" font-family="Roboto" font-size=".15em" fill="white"
          text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
       <textPath font-family="Roboto" font-style="normal" xlink:href="#descriptionTyping" >
-          Back-End Developer Python
+          Python Backend Developer
       </textPath>
     </text>
     
