@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp; 💪 &nbsp;Currently doing physiotherapy in search of recovering the movement of my hand due to a surgery performed. Returning to programming and continuing my career and studies little by little with great enthusiasm and determination.\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Love for technology, creation and innovation.\
 &nbsp;&nbsp;&nbsp;🧮 &nbsp;Passionate with problem solving.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2020.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since late 2020.\
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Brazil.
  
 <div align="center">
