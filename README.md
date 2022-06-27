@@ -35,7 +35,6 @@
     <img align="center" alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-DCDCDC?style=flat&ogo=soup&logoColor=black">
     <img align="center" alt="PostgreSQL"src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
     <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
-    
 </div>
 </details>
  
@@ -43,13 +42,11 @@
  
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=RakelMacedo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />         
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakelMacedo&layout=compact&langs_count=7&theme=synthwave" />
-    </p>
+  <div align="center">
+    <a href="#"><img alt="Rakel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RakelMacedo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=5457ff&title_color=39D353&icon_color=39D353" height="139"/></a>
+    <a href="#"><img alt="Rakel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakelMacedo&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=5457ff&title_color=39D353&icon_color=39D353" height="139"/></a>
+  </div>
 </details>
-
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=RakelMacedo&style=plastic&label=Views"><img>
