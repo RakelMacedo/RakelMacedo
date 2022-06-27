@@ -42,10 +42,10 @@
  
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <div align="center">
-    <a href="#"><img alt="Rakel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RakelMacedo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=5457ff&title_color=39D353&icon_color=39D353" height="139"/></a>
-    <a href="#"><img alt="Rakel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakelMacedo&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=5457ff&title_color=39D353&icon_color=39D353" height="139"/></a>
-  </div>
+    <p align="center">
+       <img height="141px" src="https://github-readme-stats.vercel.app/api?username=RakelMacedo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353" />         
+       <img height="141px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakelMacedo&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353" />
+    </p>
 </details>
 
 <p align="right">
