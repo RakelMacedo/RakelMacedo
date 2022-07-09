@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Brazil.
  
 <div align="center">
-  <img align="right" alt="Rakel-pic" height="152" style="border-radius:50px;"src="https://instagram.fcgh2-1.fna.fbcdn.net/v/t51.2885-15/289359001_1387762018381975_3171552419648497723_n.jpg?stp=dst-jpg_e15_s480x480&_nc_ht=instagram.fcgh2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ECg9rJX0-FYAX9S8eR2&edm=ABJHkxYAAAAA&ccb=7-5&ig_cache_key=Mjg2NzE3NTQ0MzQxMDcyOTcxOA%3D%3D.2-ccb7-5&oh=00_AT8SisfX9xE62xU192NtFrmxzWtRxXlYDc-ObDcB42gb-w&oe=62BAC57E&_nc_sid=fa978c">
+  <img align="right" alt="Rakel-pic" height="152" style="border-radius:50px;"src="https://media.discordapp.net/attachments/384756018799706123/995364104640409721/me.png?width=423&height=423">
   <a href="https://github.com/RakelMacedo/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rakel-macedo-456a76204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rakelmacedo.job@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
