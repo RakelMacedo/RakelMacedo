@@ -16,11 +16,12 @@
   <a href="https://www.linkedin.com/in/rakel-macedo-456a76204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rakelmacedo.job@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
- 
+
+
 <hr/>
- 
+<br/>
+
   ### :computer: &nbsp;Main tech knowledge
-  <br/>
  
 <div style="display: inline_block"><br>
     <img align="center" alt="Linux" src="https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux&logoColor=yellow">
@@ -38,9 +39,11 @@
     <img align="center" alt="Requests" src="https://img.shields.io/badge/Requests-777BB4?style=for-the-badge&ogo=requests&logoColor=black">
     <img align="center" alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-DCDCDC?style=for-the-badge&ogo=soup&logoColor=black">
 </div>
- 
+
+<br/>
 <hr/>
- 
+<br/>
+
   ### :gear: &nbsp;GitHub Statistics
   <br/>
     <p align="center">
