@@ -17,9 +17,7 @@
   <a href = "mailto:rakelmacedo.job@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
 <hr/>
-<br/>
 
   ### :computer: &nbsp;Main tech knowledge
  
@@ -42,7 +40,6 @@
 
 <br/>
 <hr/>
-<br/>
 
   ### :gear: &nbsp;GitHub Statistics
   <br/>
