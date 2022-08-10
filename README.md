@@ -6,6 +6,7 @@
 &nbsp;&nbsp;&nbsp; 💪 &nbsp;Currently doing physiotherapy in search of recovering the movement of my hand due to a surgery performed. Returning to programming and continuing my career and studies little by little with great enthusiasm and determination.\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Love for technology, creation and innovation.\
 &nbsp;&nbsp;&nbsp;🧮 &nbsp;Passionate with problem solving.\
+&nbsp;&nbsp;&nbsp;👨‍👩‍👧‍👦 &nbsp;I love participating in technology workshops and events that pique my interest.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since late 2020.\
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Brazil.
  
@@ -18,7 +19,6 @@
  
 <hr/>
  
-<details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
  
@@ -36,17 +36,14 @@
     <img align="center" alt="PostgreSQL"src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
     <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 </div>
-</details>
  
 <hr/>
  
-<details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
     <p align="center">
        <img height="143px" src="https://github-readme-stats.vercel.app/api?username=RakelMacedo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7217D4&icon_color=7217D4" />         
        <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakelMacedo&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=7217D4&icon_color=7217D4" />
     </p>
-</details>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=RakelMacedo&style=plastic&label=Views"><img>
