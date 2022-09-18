@@ -48,7 +48,3 @@
        <img height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakelMacedo&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=7217D4&icon_color=7217D4" />
     </p>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=RakelMacedo&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/RakelMacedo/RakelMacedo?color=black&logo=github" />
-</p>
