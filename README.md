@@ -52,7 +52,3 @@
 <img src="https://komarev.com/ghpvc/?username=RakelMacedo&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/RakelMacedo/RakelMacedo?color=black&logo=github" />
 </p>
-
-<hr/>
- 
-
