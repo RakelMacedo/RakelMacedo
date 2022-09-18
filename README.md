@@ -55,4 +55,4 @@
 
 <hr/>
  
- ![Snake animation](https://github.com/RakelMacedo/RakelMacedo/blob/output/github-contribution-grid-snake.svg)
+
