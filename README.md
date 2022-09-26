@@ -30,9 +30,9 @@
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Django" src="https://img.shields.io/badge/-Django-2E8B57?style=for-the-badge&logo=django">
-    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-DCDCDC?style=for-the-badge&logo=flask&logoColor=black">
+    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black">
     <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-%230077B5?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="CI/CD" src="https://img.shields.io/badge/ci/cd-DCDCDC?style=for-the-badge&logo=ci/cd&logoColor=white">
+    <img align="center" alt="CI/CD" src="https://img.shields.io/badge/ci/cd-white?style=for-the-badge&logo=ci/cd&logoColor=white">
     <img align="center" alt="Django REST" src="https://img.shields.io/badge/Django-REST-RESTDCDCDC?style=for-the-badge&logo=django&logoColor=black">
 </div>
 <div style="display: inline_block"><br>
@@ -40,7 +40,7 @@
     <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-32CD32?style=for-the-badge&logo=selenium&logoColor=white">
     <img align="center" alt="Pytest" src="https://img.shields.io/badge/pytest-white?style=for-the-badge&logo=pytest">
     <img align="center" alt="Requests" src="https://img.shields.io/badge/Requests-777BB4?style=for-the-badge&logo=requests&logoColor=black">
-    <img align="center" alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-DCDCDC?style=for-the-badge&logo=soup&logoColor=black">
+    <img align="center" alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-white?style=for-the-badge&logo=soup&logoColor=black">
 </div>
 
 <br/>
