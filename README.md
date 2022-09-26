@@ -38,6 +38,7 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="Github Actions" src="https://img.shields.io/badge/Github-Actions-100000?style=for-the-badge&logo=Github&logoColor=black">
     <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-32CD32?style=for-the-badge&logo=selenium&logoColor=white">
+    <img align="center" alt="Pytest" src="https://img.shields.io/badge/pytest-white?style=for-the-badge&logo=pytest">
     <img align="center" alt="Requests" src="https://img.shields.io/badge/Requests-777BB4?style=for-the-badge&logo=requests&logoColor=black">
     <img align="center" alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-DCDCDC?style=for-the-badge&logo=soup&logoColor=black">
 </div>
