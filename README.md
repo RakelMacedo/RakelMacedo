@@ -33,10 +33,10 @@
     <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black">
     <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-%230077B5?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="CI/CD" src="https://img.shields.io/badge/ci/cd-white?style=for-the-badge&logo=ci/cd&logoColor=white">
-    <img align="center" alt="Django REST" src="https://img.shields.io/badge/Django-REST-RESTDCDCDC?style=for-the-badge&logo=django&logoColor=black">
+    <img align="center" alt="Django REST" src="https://img.shields.io/badge/django%20rest-7FFF00.svg?style=for-the-badge&logo=django&logoColor=grey">
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Github Actions" src="https://img.shields.io/badge/Github-Actions-100000?style=for-the-badge&logo=Github&logoColor=black">
+    <img align="center" alt="Github Actions" src="https://img.shields.io/badge/github%20actions-100000.svg?style=for-the-badge&logo=githubactions&logoColor=white">
     <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-32CD32?style=for-the-badge&logo=selenium&logoColor=white">
     <img align="center" alt="Pytest" src="https://img.shields.io/badge/pytest-white?style=for-the-badge&logo=pytest">
     <img align="center" alt="Requests" src="https://img.shields.io/badge/Requests-777BB4?style=for-the-badge&logo=requests&logoColor=black">
@@ -53,3 +53,6 @@
        <img height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakelMacedo&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=7217D4&icon_color=7217D4" />
     </p>
 
+<hr/>
+
+ ![Snake animation](https://github.com/RakelMacedo/RakelMacedo/blob/output/github-contribution-grid-snake.svg)
