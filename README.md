@@ -36,7 +36,7 @@
     <img align="center" alt="Django REST" src="https://img.shields.io/badge/django%20rest-7FFF00.svg?style=for-the-badge&logo=django&logoColor=grey">
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Github Actions" src="https://img.shields.io/badge/github%20actions-100000.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+    <img align="center" alt="Github Actions" src="https://img.shields.io/badge/github%20actions-100000.svg?style=for-the-badge&logo=githubactions&logoColor=blue">
     <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-32CD32?style=for-the-badge&logo=selenium&logoColor=white">
     <img align="center" alt="Pytest" src="https://img.shields.io/badge/pytest-white?style=for-the-badge&logo=pytest">
     <img align="center" alt="Requests" src="https://img.shields.io/badge/Requests-777BB4?style=for-the-badge&logo=requests&logoColor=black">
