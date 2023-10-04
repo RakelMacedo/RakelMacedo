@@ -3,7 +3,6 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; 💪 &nbsp;Fully recovered from the surgery I had on my hand. I am actively back in programming continuing my career and studies with great enthusiasm and determination.\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Love for technology, creation and innovation.\
 &nbsp;&nbsp;&nbsp;🧮 &nbsp;Passionate with problem solving.\
 &nbsp;&nbsp;&nbsp;👨‍👩‍👧‍👦 &nbsp;I love participating in technology workshops and events that pique my interest.\
@@ -53,6 +52,3 @@
        <img height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakelMacedo&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=7217D4&icon_color=7217D4" />
     </p>
 
-<hr/>
-
- ![Snake animation](https://github.com/RakelMacedo/RakelMacedo/blob/output/github-contribution-grid-snake.svg)
