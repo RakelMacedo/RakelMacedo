@@ -4,6 +4,7 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Love for technology, creation and innovation.\
+&nbsp;&nbsp;&nbsp;🎓 &nbsp;Studying Cyber Defense at FIAP.\
 &nbsp;&nbsp;&nbsp;🧮 &nbsp;Passionate with problem solving.\
 &nbsp;&nbsp;&nbsp;👨‍👩‍👧‍👦 &nbsp;I love participating in technology workshops and events that pique my interest.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since late 2020.\
@@ -24,6 +25,7 @@
     <img align="center" alt="Linux" src="https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux&logoColor=yellow">
     <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="Docker" src="https://img.shields.io/badge/-Docker-100000?style=for-the-badge&logo=docker">
+    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=green">
     <img align="center" alt="SQLite" src="https://img.shields.io/badge/-SQLite-191970?style=for-the-badge&logo=sqlite&logoColor=white">
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
@@ -33,6 +35,8 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-%230077B5?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="CI/CD" src="https://img.shields.io/badge/ci/cd-white?style=for-the-badge&logo=ci/cd&logoColor=white">
     <img align="center" alt="Django REST" src="https://img.shields.io/badge/django%20rest-7FFF00.svg?style=for-the-badge&logo=django&logoColor=grey">
+    <img align="center" alt="AWS" src="https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=aws">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Github Actions" src="https://img.shields.io/badge/github%20actions-100000.svg?style=for-the-badge&logo=githubactions&logoColor=blue">
