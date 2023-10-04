@@ -35,7 +35,7 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-%230077B5?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="CI/CD" src="https://img.shields.io/badge/ci/cd-white?style=for-the-badge&logo=ci/cd&logoColor=white">
     <img align="center" alt="Django REST" src="https://img.shields.io/badge/django%20rest-7FFF00.svg?style=for-the-badge&logo=django&logoColor=grey">
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=aws">
+    <img align="center" alt="AWS" src="https://img.shields.io/badge/aws-FFA500.svg?style=for-the-badge&logo=aws">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <div style="display: inline_block"><br>
