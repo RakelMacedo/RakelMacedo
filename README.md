@@ -4,7 +4,7 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;🖥️ &nbsp;Love for technology, creation and innovation.\
-&nbsp;&nbsp;&nbsp;🎓 &nbsp;Studying Cyber Defense at FIAP.\
+&nbsp;&nbsp;&nbsp;🎓 &nbsp;Graduated in Cyber ​​Defense at FIAP.\
 &nbsp;&nbsp;&nbsp;🧮 &nbsp;Passionate with problem solving.\
 &nbsp;&nbsp;&nbsp;👨‍👩‍👧‍👦 &nbsp;I love participating in technology workshops and events that pique my interest.\
 &nbsp;&nbsp;&nbsp;🛠️ &nbsp;Coding since late 2020.\
